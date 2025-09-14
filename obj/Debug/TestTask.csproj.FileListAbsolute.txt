@@ -1,0 +1,12 @@
+C:\Users\Grigo\source\repos\TestTask\bin\Debug\TestTask.exe.config
+C:\Users\Grigo\source\repos\TestTask\bin\Debug\TestTask.exe
+C:\Users\Grigo\source\repos\TestTask\bin\Debug\TestTask.pdb
+C:\Users\Grigo\source\repos\TestTask\obj\Debug\TestTask.csproj.AssemblyReference.cache
+C:\Users\Grigo\source\repos\TestTask\obj\Debug\TestTask.Properties.Resources.resources
+C:\Users\Grigo\source\repos\TestTask\obj\Debug\TestTask.csproj.GenerateResource.cache
+C:\Users\Grigo\source\repos\TestTask\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\Grigo\source\repos\TestTask\obj\Debug\TestTask.exe
+C:\Users\Grigo\source\repos\TestTask\obj\Debug\TestTask.pdb
+C:\Users\Grigo\source\repos\TestTask\obj\Debug\TestTask.exe.config
+C:\Users\Grigo\source\repos\TestTask\obj\Debug\TestTask.Forms.MainForm.resources
+C:\Users\Grigo\source\repos\TestTask\obj\Debug\TestTask.Forms.StatisticsForm.resources
